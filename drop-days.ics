@@ -1,0 +1,1865 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Reality Drop Days//Live feed//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Reality Drop Days
+X-WR-TIMEZONE:America/Los_Angeles
+X-WR-CALDESC:A reminder each morning a new episode is up to stream\, and on
+  every Inside the NBA night. Updates on its own when the schedule changes.
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:survivor-2026-09-24@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20260924T090000
+DTEND;TZID=America/Los_Angeles:20260924T091500
+SUMMARY:Survivor is on Paramount+ today
+DESCRIPTION:Survivor\, Season 51. Episode 1: Permanent Uncertainty. New epi
+ sodes: Thursdays on Paramount+ (often up late Wednesday night). Two-hour p
+ remiere.
+LOCATION:Paramount+
+URL:https://www.paramountplus.com/shows/survivor/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Survivor is on Paramount+ today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:survivor-2026-10-01@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261001T090000
+DTEND;TZID=America/Los_Angeles:20261001T091500
+SUMMARY:Survivor is on Paramount+ today
+DESCRIPTION:Survivor\, Season 51. Episode 2: Weaponized Honesty. New episod
+ es: Thursdays on Paramount+ (often up late Wednesday night).
+LOCATION:Paramount+
+URL:https://www.paramountplus.com/shows/survivor/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Survivor is on Paramount+ today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:survivor-2026-10-08@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261008T090000
+DTEND;TZID=America/Los_Angeles:20261008T091500
+SUMMARY:Survivor is on Paramount+ today
+DESCRIPTION:Survivor\, Season 51. Episode 3: What I'm Smellin' Is Stinky. N
+ ew episodes: Thursdays on Paramount+ (often up late Wednesday night).
+LOCATION:Paramount+
+URL:https://www.paramountplus.com/shows/survivor/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Survivor is on Paramount+ today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:survivor-2026-10-15@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261015T090000
+DTEND;TZID=America/Los_Angeles:20261015T091500
+SUMMARY:Survivor is on Paramount+ today
+DESCRIPTION:Survivor\, Season 51. Episode 4. New episodes: Thursdays on Par
+ amount+ (often up late Wednesday night).
+LOCATION:Paramount+
+URL:https://www.paramountplus.com/shows/survivor/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Survivor is on Paramount+ today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:survivor-2026-10-22@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261022T090000
+DTEND;TZID=America/Los_Angeles:20261022T091500
+SUMMARY:Survivor is on Paramount+ today
+DESCRIPTION:Survivor\, Season 51. Episode 5. New episodes: Thursdays on Par
+ amount+ (often up late Wednesday night).
+LOCATION:Paramount+
+URL:https://www.paramountplus.com/shows/survivor/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Survivor is on Paramount+ today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:survivor-2026-10-29@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261029T090000
+DTEND;TZID=America/Los_Angeles:20261029T091500
+SUMMARY:Survivor is on Paramount+ today
+DESCRIPTION:Survivor\, Season 51. Episode 6. New episodes: Thursdays on Par
+ amount+ (often up late Wednesday night).
+LOCATION:Paramount+
+URL:https://www.paramountplus.com/shows/survivor/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Survivor is on Paramount+ today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:survivor-2026-11-05@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261105T090000
+DTEND;TZID=America/Los_Angeles:20261105T091500
+SUMMARY:Survivor is on Paramount+ today
+DESCRIPTION:Survivor\, Season 51. Episode 7. New episodes: Thursdays on Par
+ amount+ (often up late Wednesday night).
+LOCATION:Paramount+
+URL:https://www.paramountplus.com/shows/survivor/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Survivor is on Paramount+ today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:survivor-2026-11-12@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261112T090000
+DTEND;TZID=America/Los_Angeles:20261112T091500
+SUMMARY:Survivor is on Paramount+ today
+DESCRIPTION:Survivor\, Season 51. Episode 8. New episodes: Thursdays on Par
+ amount+ (often up late Wednesday night).
+LOCATION:Paramount+
+URL:https://www.paramountplus.com/shows/survivor/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Survivor is on Paramount+ today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:survivor-2026-11-19@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261119T090000
+DTEND;TZID=America/Los_Angeles:20261119T091500
+SUMMARY:Survivor is on Paramount+ today
+DESCRIPTION:Survivor\, Season 51. Episode 9. New episodes: Thursdays on Par
+ amount+ (often up late Wednesday night).
+LOCATION:Paramount+
+URL:https://www.paramountplus.com/shows/survivor/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Survivor is on Paramount+ today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:survivor-2026-11-26@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261126T090000
+DTEND;TZID=America/Los_Angeles:20261126T091500
+SUMMARY:Survivor is on Paramount+ today
+DESCRIPTION:Survivor\, Season 51. Episode 10. New episodes: Thursdays on Pa
+ ramount+ (often up late Wednesday night). Expected date. CBS has not confi
+ rmed it yet.
+LOCATION:Paramount+
+URL:https://www.paramountplus.com/shows/survivor/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Survivor is on Paramount+ today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:survivor-2026-12-03@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261203T090000
+DTEND;TZID=America/Los_Angeles:20261203T091500
+SUMMARY:Survivor is on Paramount+ today
+DESCRIPTION:Survivor\, Season 51. Episode 11. New episodes: Thursdays on Pa
+ ramount+ (often up late Wednesday night). Expected date. CBS has not confi
+ rmed it yet.
+LOCATION:Paramount+
+URL:https://www.paramountplus.com/shows/survivor/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Survivor is on Paramount+ today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:survivor-2026-12-10@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261210T090000
+DTEND;TZID=America/Los_Angeles:20261210T091500
+SUMMARY:Survivor is on Paramount+ today
+DESCRIPTION:Survivor\, Season 51. Episode 12. New episodes: Thursdays on Pa
+ ramount+ (often up late Wednesday night). Expected date. CBS has not confi
+ rmed it yet.
+LOCATION:Paramount+
+URL:https://www.paramountplus.com/shows/survivor/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Survivor is on Paramount+ today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:survivor-2026-12-17@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261217T090000
+DTEND;TZID=America/Los_Angeles:20261217T091500
+SUMMARY:Survivor is on Paramount+ today
+DESCRIPTION:Survivor\, Season 51. Episode 13. New episodes: Thursdays on Pa
+ ramount+ (often up late Wednesday night). Expected date. CBS has not confi
+ rmed it yet.
+LOCATION:Paramount+
+URL:https://www.paramountplus.com/shows/survivor/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Survivor is on Paramount+ today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:amazing_race-2026-10-01@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261001T090000
+DTEND;TZID=America/Los_Angeles:20261001T091500
+SUMMARY:The Amazing Race is on Paramount+ today
+DESCRIPTION:The Amazing Race\, Season 39. Episode 1: Sorry Guys\, We Used O
+ ur Express Pass. New episodes: Thursdays on Paramount+ (often up late Wedn
+ esday night).
+LOCATION:Paramount+
+URL:https://www.paramountplus.com/shows/amazing_race/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:The Amazing Race is on Paramount+ today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:amazing_race-2026-10-02@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261002T090000
+DTEND;TZID=America/Los_Angeles:20261002T091500
+SUMMARY:The Amazing Race is on Paramount+ today
+DESCRIPTION:The Amazing Race\, Season 39. Episode 2: Are Tomatoes Good for 
+ Skin Care?. New episodes: Thursdays on Paramount+ (often up late Wednesday
+  night). Special Thursday airing.
+LOCATION:Paramount+
+URL:https://www.paramountplus.com/shows/amazing_race/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:The Amazing Race is on Paramount+ today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:amazing_race-2026-10-08@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261008T090000
+DTEND;TZID=America/Los_Angeles:20261008T091500
+SUMMARY:The Amazing Race is on Paramount+ today
+DESCRIPTION:The Amazing Race\, Season 39. Episode 3: This Is Sick and Twist
+ ed. New episodes: Thursdays on Paramount+ (often up late Wednesday night).
+LOCATION:Paramount+
+URL:https://www.paramountplus.com/shows/amazing_race/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:The Amazing Race is on Paramount+ today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:amazing_race-2026-10-15@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261015T090000
+DTEND;TZID=America/Los_Angeles:20261015T091500
+SUMMARY:The Amazing Race is on Paramount+ today
+DESCRIPTION:The Amazing Race\, Season 39. Episode 4. New episodes: Thursday
+ s on Paramount+ (often up late Wednesday night).
+LOCATION:Paramount+
+URL:https://www.paramountplus.com/shows/amazing_race/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:The Amazing Race is on Paramount+ today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:amazing_race-2026-10-22@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261022T090000
+DTEND;TZID=America/Los_Angeles:20261022T091500
+SUMMARY:The Amazing Race is on Paramount+ today
+DESCRIPTION:The Amazing Race\, Season 39. Episode 5. New episodes: Thursday
+ s on Paramount+ (often up late Wednesday night).
+LOCATION:Paramount+
+URL:https://www.paramountplus.com/shows/amazing_race/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:The Amazing Race is on Paramount+ today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:amazing_race-2026-10-29@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261029T090000
+DTEND;TZID=America/Los_Angeles:20261029T091500
+SUMMARY:The Amazing Race is on Paramount+ today
+DESCRIPTION:The Amazing Race\, Season 39. Episode 6. New episodes: Thursday
+ s on Paramount+ (often up late Wednesday night).
+LOCATION:Paramount+
+URL:https://www.paramountplus.com/shows/amazing_race/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:The Amazing Race is on Paramount+ today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:amazing_race-2026-11-05@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261105T090000
+DTEND;TZID=America/Los_Angeles:20261105T091500
+SUMMARY:The Amazing Race is on Paramount+ today
+DESCRIPTION:The Amazing Race\, Season 39. Episode 7. New episodes: Thursday
+ s on Paramount+ (often up late Wednesday night).
+LOCATION:Paramount+
+URL:https://www.paramountplus.com/shows/amazing_race/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:The Amazing Race is on Paramount+ today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:amazing_race-2026-11-12@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261112T090000
+DTEND;TZID=America/Los_Angeles:20261112T091500
+SUMMARY:The Amazing Race is on Paramount+ today
+DESCRIPTION:The Amazing Race\, Season 39. Episode 8. New episodes: Thursday
+ s on Paramount+ (often up late Wednesday night).
+LOCATION:Paramount+
+URL:https://www.paramountplus.com/shows/amazing_race/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:The Amazing Race is on Paramount+ today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:amazing_race-2026-11-19@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261119T090000
+DTEND;TZID=America/Los_Angeles:20261119T091500
+SUMMARY:The Amazing Race is on Paramount+ today
+DESCRIPTION:The Amazing Race\, Season 39. Episode 9. New episodes: Thursday
+ s on Paramount+ (often up late Wednesday night).
+LOCATION:Paramount+
+URL:https://www.paramountplus.com/shows/amazing_race/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:The Amazing Race is on Paramount+ today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:amazing_race-2026-11-26@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261126T090000
+DTEND;TZID=America/Los_Angeles:20261126T091500
+SUMMARY:The Amazing Race is on Paramount+ today
+DESCRIPTION:The Amazing Race\, Season 39. Episode 10. New episodes: Thursda
+ ys on Paramount+ (often up late Wednesday night). Expected date. CBS has n
+ ot confirmed it yet.
+LOCATION:Paramount+
+URL:https://www.paramountplus.com/shows/amazing_race/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:The Amazing Race is on Paramount+ today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:amazing_race-2026-12-03@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261203T090000
+DTEND;TZID=America/Los_Angeles:20261203T091500
+SUMMARY:The Amazing Race is on Paramount+ today
+DESCRIPTION:The Amazing Race\, Season 39. Episode 11. New episodes: Thursda
+ ys on Paramount+ (often up late Wednesday night). Expected date. CBS has n
+ ot confirmed it yet.
+LOCATION:Paramount+
+URL:https://www.paramountplus.com/shows/amazing_race/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:The Amazing Race is on Paramount+ today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:amazing_race-2026-12-10@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261210T090000
+DTEND;TZID=America/Los_Angeles:20261210T091500
+SUMMARY:The Amazing Race is on Paramount+ today
+DESCRIPTION:The Amazing Race\, Season 39. Episode 12. New episodes: Thursda
+ ys on Paramount+ (often up late Wednesday night). Expected date. CBS has n
+ ot confirmed it yet.
+LOCATION:Paramount+
+URL:https://www.paramountplus.com/shows/amazing_race/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:The Amazing Race is on Paramount+ today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shark_tank-2026-10-01@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261001T090000
+DTEND;TZID=America/Los_Angeles:20261001T091500
+SUMMARY:Shark Tank is on Hulu today
+DESCRIPTION:Shark Tank\, Season 18. Episodes 1 and 2: Beast Mode / Favorite
+  Daughters. New episodes: Thursday mornings on Hulu. Two-episode premiere.
+LOCATION:Hulu
+URL:https://www.hulu.com/series/shark-tank-20ed5e79-3fba-4eda-8d84-ed6e33f9
+ a019
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Shark Tank is on Hulu today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shark_tank-2026-10-08@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261008T090000
+DTEND;TZID=America/Los_Angeles:20261008T091500
+SUMMARY:Shark Tank is on Hulu today
+DESCRIPTION:Shark Tank\, Season 18. Episode 3: Diary of a Shark. New episod
+ es: Thursday mornings on Hulu.
+LOCATION:Hulu
+URL:https://www.hulu.com/series/shark-tank-20ed5e79-3fba-4eda-8d84-ed6e33f9
+ a019
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Shark Tank is on Hulu today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shark_tank-2026-10-15@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261015T090000
+DTEND;TZID=America/Los_Angeles:20261015T091500
+SUMMARY:Shark Tank is on Hulu today
+DESCRIPTION:Shark Tank\, Season 18. Episode 4: The Mindy Project. New episo
+ des: Thursday mornings on Hulu.
+LOCATION:Hulu
+URL:https://www.hulu.com/series/shark-tank-20ed5e79-3fba-4eda-8d84-ed6e33f9
+ a019
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Shark Tank is on Hulu today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shark_tank-2026-10-29@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261029T090000
+DTEND;TZID=America/Los_Angeles:20261029T091500
+SUMMARY:Shark Tank is on Hulu today
+DESCRIPTION:Shark Tank\, Season 18. Episode 5. New episodes: Thursday morni
+ ngs on Hulu. Expected date. ABC has not confirmed it yet.
+LOCATION:Hulu
+URL:https://www.hulu.com/series/shark-tank-20ed5e79-3fba-4eda-8d84-ed6e33f9
+ a019
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Shark Tank is on Hulu today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shark_tank-2026-11-05@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261105T090000
+DTEND;TZID=America/Los_Angeles:20261105T091500
+SUMMARY:Shark Tank is on Hulu today
+DESCRIPTION:Shark Tank\, Season 18. Episode 6. New episodes: Thursday morni
+ ngs on Hulu. Expected date. ABC has not confirmed it yet.
+LOCATION:Hulu
+URL:https://www.hulu.com/series/shark-tank-20ed5e79-3fba-4eda-8d84-ed6e33f9
+ a019
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Shark Tank is on Hulu today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shark_tank-2026-11-12@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261112T090000
+DTEND;TZID=America/Los_Angeles:20261112T091500
+SUMMARY:Shark Tank is on Hulu today
+DESCRIPTION:Shark Tank\, Season 18. Episode 7. New episodes: Thursday morni
+ ngs on Hulu. Expected date. ABC has not confirmed it yet.
+LOCATION:Hulu
+URL:https://www.hulu.com/series/shark-tank-20ed5e79-3fba-4eda-8d84-ed6e33f9
+ a019
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Shark Tank is on Hulu today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:the_challenge-2026-09-30@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20260930T090000
+DTEND;TZID=America/Los_Angeles:20260930T091500
+SUMMARY:The Challenge is on Paramount+ today
+DESCRIPTION:The Challenge\, Season 42: Cutthroat. Episode 10: Trial By Comb
+ at. New episodes: Wednesdays on Paramount+.
+LOCATION:Paramount+
+URL:https://www.paramountplus.com/shows/the-challenge/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:The Challenge is on Paramount+ today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:the_challenge-2026-10-07@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261007T090000
+DTEND;TZID=America/Los_Angeles:20261007T091500
+SUMMARY:The Challenge is on Paramount+ today
+DESCRIPTION:The Challenge\, Season 42: Cutthroat. Episode 11: Underwear Gat
+ e. New episodes: Wednesdays on Paramount+.
+LOCATION:Paramount+
+URL:https://www.paramountplus.com/shows/the-challenge/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:The Challenge is on Paramount+ today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:the_challenge-2026-10-14@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261014T090000
+DTEND;TZID=America/Los_Angeles:20261014T091500
+SUMMARY:The Challenge is on Paramount+ today
+DESCRIPTION:The Challenge\, Season 42: Cutthroat. Episode 12: Participation
+  Trophies. New episodes: Wednesdays on Paramount+.
+LOCATION:Paramount+
+URL:https://www.paramountplus.com/shows/the-challenge/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:The Challenge is on Paramount+ today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:the_challenge-2026-10-21@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261021T090000
+DTEND;TZID=America/Los_Angeles:20261021T091500
+SUMMARY:The Challenge is on Paramount+ today
+DESCRIPTION:The Challenge\, Season 42: Cutthroat. Episode 13: The Final. Ne
+ w episodes: Wednesdays on Paramount+.
+LOCATION:Paramount+
+URL:https://www.paramountplus.com/shows/the-challenge/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:The Challenge is on Paramount+ today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:the_challenge-2026-10-28@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261028T090000
+DTEND;TZID=America/Los_Angeles:20261028T091500
+SUMMARY:The Challenge is on Paramount+ today
+DESCRIPTION:The Challenge\, Season 42: Cutthroat. Episode 14. New episodes:
+  Wednesdays on Paramount+. Season finale.
+LOCATION:Paramount+
+URL:https://www.paramountplus.com/shows/the-challenge/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:The Challenge is on Paramount+ today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:still_flipping_out-2026-09-29@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20260929T090000
+DTEND;TZID=America/Los_Angeles:20260929T091500
+SUMMARY:Still Flipping Out is on Peacock today
+DESCRIPTION:Still Flipping Out\, Season 1. Episode 1: Did You Miss Me?. New
+  episodes: Tuesday mornings on Peacock.
+LOCATION:Peacock
+URL:https://www.peacocktv.com/watch-online/tv/still-flipping-out/7620720323
+ 445966112
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Still Flipping Out is on Peacock today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:still_flipping_out-2026-10-06@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261006T090000
+DTEND;TZID=America/Los_Angeles:20261006T091500
+SUMMARY:Still Flipping Out is on Peacock today
+DESCRIPTION:Still Flipping Out\, Season 1. Episode 2: Sick of the Shtick. N
+ ew episodes: Tuesday mornings on Peacock.
+LOCATION:Peacock
+URL:https://www.peacocktv.com/watch-online/tv/still-flipping-out/7620720323
+ 445966112
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Still Flipping Out is on Peacock today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:still_flipping_out-2026-10-13@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261013T090000
+DTEND;TZID=America/Los_Angeles:20261013T091500
+SUMMARY:Still Flipping Out is on Peacock today
+DESCRIPTION:Still Flipping Out\, Season 1. Episode 3: Chumped and Dumped. N
+ ew episodes: Tuesday mornings on Peacock.
+LOCATION:Peacock
+URL:https://www.peacocktv.com/watch-online/tv/still-flipping-out/7620720323
+ 445966112
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Still Flipping Out is on Peacock today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:still_flipping_out-2026-10-20@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261020T090000
+DTEND;TZID=America/Los_Angeles:20261020T091500
+SUMMARY:Still Flipping Out is on Peacock today
+DESCRIPTION:Still Flipping Out\, Season 1. Episode 4: In Thickness and in H
+ ealth. New episodes: Tuesday mornings on Peacock.
+LOCATION:Peacock
+URL:https://www.peacocktv.com/watch-online/tv/still-flipping-out/7620720323
+ 445966112
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Still Flipping Out is on Peacock today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:still_flipping_out-2026-10-27@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261027T090000
+DTEND;TZID=America/Los_Angeles:20261027T091500
+SUMMARY:Still Flipping Out is on Peacock today
+DESCRIPTION:Still Flipping Out\, Season 1. Episode 5: Totes Inappropes. New
+  episodes: Tuesday mornings on Peacock.
+LOCATION:Peacock
+URL:https://www.peacocktv.com/watch-online/tv/still-flipping-out/7620720323
+ 445966112
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Still Flipping Out is on Peacock today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:still_flipping_out-2026-11-03@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261103T090000
+DTEND;TZID=America/Los_Angeles:20261103T091500
+SUMMARY:Still Flipping Out is on Peacock today
+DESCRIPTION:Still Flipping Out\, Season 1. Episode 6. New episodes: Tuesday
+  mornings on Peacock.
+LOCATION:Peacock
+URL:https://www.peacocktv.com/watch-online/tv/still-flipping-out/7620720323
+ 445966112
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Still Flipping Out is on Peacock today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:still_flipping_out-2026-11-10@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261110T090000
+DTEND;TZID=America/Los_Angeles:20261110T091500
+SUMMARY:Still Flipping Out is on Peacock today
+DESCRIPTION:Still Flipping Out\, Season 1. Episode 7. New episodes: Tuesday
+  mornings on Peacock. Expected date. Bravo has not confirmed it yet.
+LOCATION:Peacock
+URL:https://www.peacocktv.com/watch-online/tv/still-flipping-out/7620720323
+ 445966112
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Still Flipping Out is on Peacock today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:still_flipping_out-2026-11-17@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261117T090000
+DTEND;TZID=America/Los_Angeles:20261117T091500
+SUMMARY:Still Flipping Out is on Peacock today
+DESCRIPTION:Still Flipping Out\, Season 1. Episode 8. New episodes: Tuesday
+  mornings on Peacock. Expected date. Bravo has not confirmed it yet.
+LOCATION:Peacock
+URL:https://www.peacocktv.com/watch-online/tv/still-flipping-out/7620720323
+ 445966112
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Still Flipping Out is on Peacock today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hells_kitchen-2026-09-25@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20260925T090000
+DTEND;TZID=America/Los_Angeles:20260925T091500
+SUMMARY:Hell's Kitchen is on Hulu today
+DESCRIPTION:Hell's Kitchen\, Season 25. Episode 1: 25th Premiere Party. New
+  episodes: Friday mornings on Hulu. Season premiere.
+LOCATION:Hulu
+URL:https://www.hulu.com/series/hells-kitchen-4f31f13a-d60c-4c90-b8e5-397ea
+ 49d08db
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hell's Kitchen is on Hulu today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hells_kitchen-2026-10-02@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261002T090000
+DTEND;TZID=America/Los_Angeles:20261002T091500
+SUMMARY:Hell's Kitchen is on Hulu today
+DESCRIPTION:Hell's Kitchen\, Season 25. Episode 2: A Tale of Two Kitchens. 
+ New episodes: Friday mornings on Hulu.
+LOCATION:Hulu
+URL:https://www.hulu.com/series/hells-kitchen-4f31f13a-d60c-4c90-b8e5-397ea
+ 49d08db
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hell's Kitchen is on Hulu today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hells_kitchen-2026-10-09@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261009T090000
+DTEND;TZID=America/Los_Angeles:20261009T091500
+SUMMARY:Hell's Kitchen is on Hulu today
+DESCRIPTION:Hell's Kitchen\, Season 25. Episode 3: Sliding Into Hell. New e
+ pisodes: Friday mornings on Hulu.
+LOCATION:Hulu
+URL:https://www.hulu.com/series/hells-kitchen-4f31f13a-d60c-4c90-b8e5-397ea
+ 49d08db
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hell's Kitchen is on Hulu today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hells_kitchen-2026-10-16@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261016T090000
+DTEND;TZID=America/Los_Angeles:20261016T091500
+SUMMARY:Hell's Kitchen is on Hulu today
+DESCRIPTION:Hell's Kitchen\, Season 25. Episode 4: Hell's Kitchen Universit
+ y. New episodes: Friday mornings on Hulu.
+LOCATION:Hulu
+URL:https://www.hulu.com/series/hells-kitchen-4f31f13a-d60c-4c90-b8e5-397ea
+ 49d08db
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hell's Kitchen is on Hulu today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hells_kitchen-2026-10-23@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261023T090000
+DTEND;TZID=America/Los_Angeles:20261023T091500
+SUMMARY:Hell's Kitchen is on Hulu today
+DESCRIPTION:Hell's Kitchen\, Season 25. Episode 5. New episodes: Friday mor
+ nings on Hulu.
+LOCATION:Hulu
+URL:https://www.hulu.com/series/hells-kitchen-4f31f13a-d60c-4c90-b8e5-397ea
+ 49d08db
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hell's Kitchen is on Hulu today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hells_kitchen-2026-10-30@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261030T090000
+DTEND;TZID=America/Los_Angeles:20261030T091500
+SUMMARY:Hell's Kitchen is on Hulu today
+DESCRIPTION:Hell's Kitchen\, Season 25. Episode 6. New episodes: Friday mor
+ nings on Hulu.
+LOCATION:Hulu
+URL:https://www.hulu.com/series/hells-kitchen-4f31f13a-d60c-4c90-b8e5-397ea
+ 49d08db
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hell's Kitchen is on Hulu today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hells_kitchen-2026-11-06@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261106T090000
+DTEND;TZID=America/Los_Angeles:20261106T091500
+SUMMARY:Hell's Kitchen is on Hulu today
+DESCRIPTION:Hell's Kitchen\, Season 25. Episode 7. New episodes: Friday mor
+ nings on Hulu.
+LOCATION:Hulu
+URL:https://www.hulu.com/series/hells-kitchen-4f31f13a-d60c-4c90-b8e5-397ea
+ 49d08db
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hell's Kitchen is on Hulu today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hells_kitchen-2026-11-13@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261113T090000
+DTEND;TZID=America/Los_Angeles:20261113T091500
+SUMMARY:Hell's Kitchen is on Hulu today
+DESCRIPTION:Hell's Kitchen\, Season 25. Episode 8. New episodes: Friday mor
+ nings on Hulu. Expected date. FOX has not confirmed it yet.
+LOCATION:Hulu
+URL:https://www.hulu.com/series/hells-kitchen-4f31f13a-d60c-4c90-b8e5-397ea
+ 49d08db
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hell's Kitchen is on Hulu today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hells_kitchen-2026-11-20@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261120T090000
+DTEND;TZID=America/Los_Angeles:20261120T091500
+SUMMARY:Hell's Kitchen is on Hulu today
+DESCRIPTION:Hell's Kitchen\, Season 25. Episode 9. New episodes: Friday mor
+ nings on Hulu. Expected date. FOX has not confirmed it yet.
+LOCATION:Hulu
+URL:https://www.hulu.com/series/hells-kitchen-4f31f13a-d60c-4c90-b8e5-397ea
+ 49d08db
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hell's Kitchen is on Hulu today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hells_kitchen-2026-12-04@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261204T090000
+DTEND;TZID=America/Los_Angeles:20261204T091500
+SUMMARY:Hell's Kitchen is on Hulu today
+DESCRIPTION:Hell's Kitchen\, Season 25. Episode 10. New episodes: Friday mo
+ rnings on Hulu. Expected date. FOX has not confirmed it yet.
+LOCATION:Hulu
+URL:https://www.hulu.com/series/hells-kitchen-4f31f13a-d60c-4c90-b8e5-397ea
+ 49d08db
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hell's Kitchen is on Hulu today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hells_kitchen-2026-12-11@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261211T090000
+DTEND;TZID=America/Los_Angeles:20261211T091500
+SUMMARY:Hell's Kitchen is on Hulu today
+DESCRIPTION:Hell's Kitchen\, Season 25. Episode 11. New episodes: Friday mo
+ rnings on Hulu. Expected date. FOX has not confirmed it yet.
+LOCATION:Hulu
+URL:https://www.hulu.com/series/hells-kitchen-4f31f13a-d60c-4c90-b8e5-397ea
+ 49d08db
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hell's Kitchen is on Hulu today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:south_park-2026-09-17@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20260917T090000
+DTEND;TZID=America/Los_Angeles:20260917T091500
+SUMMARY:South Park is on Paramount+ today
+DESCRIPTION:South Park\, Season 29. Episode 1: South American Biker Gangs. 
+ New episodes: Thursdays on Paramount+\, every other week (often up late We
+ dnesday night).
+LOCATION:Paramount+
+URL:https://www.paramountplus.com/shows/south-park/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:South Park is on Paramount+ today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:south_park-2026-10-01@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261001T090000
+DTEND;TZID=America/Los_Angeles:20261001T091500
+SUMMARY:South Park is on Paramount+ today
+DESCRIPTION:South Park\, Season 29. Episode 2: Billionaire Weenietown. New 
+ episodes: Thursdays on Paramount+\, every other week (often up late Wednes
+ day night).
+LOCATION:Paramount+
+URL:https://www.paramountplus.com/shows/south-park/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:South Park is on Paramount+ today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:south_park-2026-10-15@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261015T090000
+DTEND;TZID=America/Los_Angeles:20261015T091500
+SUMMARY:South Park is on Paramount+ today
+DESCRIPTION:South Park\, Season 29. Episode 3. New episodes: Thursdays on P
+ aramount+\, every other week (often up late Wednesday night).
+LOCATION:Paramount+
+URL:https://www.paramountplus.com/shows/south-park/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:South Park is on Paramount+ today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:south_park-2026-10-29@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261029T090000
+DTEND;TZID=America/Los_Angeles:20261029T091500
+SUMMARY:South Park is on Paramount+ today
+DESCRIPTION:South Park\, Season 29. Episode 4. New episodes: Thursdays on P
+ aramount+\, every other week (often up late Wednesday night).
+LOCATION:Paramount+
+URL:https://www.paramountplus.com/shows/south-park/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:South Park is on Paramount+ today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:south_park-2026-11-12@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261112T090000
+DTEND;TZID=America/Los_Angeles:20261112T091500
+SUMMARY:South Park is on Paramount+ today
+DESCRIPTION:South Park\, Season 29. Episode 5. New episodes: Thursdays on P
+ aramount+\, every other week (often up late Wednesday night).
+LOCATION:Paramount+
+URL:https://www.paramountplus.com/shows/south-park/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:South Park is on Paramount+ today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:south_park-2026-11-26@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261126T090000
+DTEND;TZID=America/Los_Angeles:20261126T091500
+SUMMARY:South Park is on Paramount+ today
+DESCRIPTION:South Park\, Season 29. Episode 6. New episodes: Thursdays on P
+ aramount+\, every other week (often up late Wednesday night). Season final
+ e.
+LOCATION:Paramount+
+URL:https://www.paramountplus.com/shows/south-park/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:South Park is on Paramount+ today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fbi-2026-10-06@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261006T090000
+DTEND;TZID=America/Los_Angeles:20261006T091500
+SUMMARY:FBI is on Paramount+ today
+DESCRIPTION:FBI\, Season 9. Episode 1: Rendition. New episodes: Tuesdays on
+  Paramount+ (often up late Monday night). Season premiere.
+LOCATION:Paramount+
+URL:https://www.paramountplus.com/shows/fbi/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FBI is on Paramount+ today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fbi-2026-10-13@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261013T090000
+DTEND;TZID=America/Los_Angeles:20261013T091500
+SUMMARY:FBI is on Paramount+ today
+DESCRIPTION:FBI\, Season 9. Episode 2: Omissions. New episodes: Tuesdays on
+  Paramount+ (often up late Monday night).
+LOCATION:Paramount+
+URL:https://www.paramountplus.com/shows/fbi/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FBI is on Paramount+ today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fbi-2026-10-20@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261020T090000
+DTEND;TZID=America/Los_Angeles:20261020T091500
+SUMMARY:FBI is on Paramount+ today
+DESCRIPTION:FBI\, Season 9. Episode 3: White Rock. New episodes: Tuesdays o
+ n Paramount+ (often up late Monday night).
+LOCATION:Paramount+
+URL:https://www.paramountplus.com/shows/fbi/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FBI is on Paramount+ today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fbi-2026-10-27@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261027T090000
+DTEND;TZID=America/Los_Angeles:20261027T091500
+SUMMARY:FBI is on Paramount+ today
+DESCRIPTION:FBI\, Season 9. Episode 4. New episodes: Tuesdays on Paramount+
+  (often up late Monday night).
+LOCATION:Paramount+
+URL:https://www.paramountplus.com/shows/fbi/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FBI is on Paramount+ today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fbi-2026-11-03@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261103T090000
+DTEND;TZID=America/Los_Angeles:20261103T091500
+SUMMARY:FBI is on Paramount+ today
+DESCRIPTION:FBI\, Season 9. Episode 5. New episodes: Tuesdays on Paramount+
+  (often up late Monday night).
+LOCATION:Paramount+
+URL:https://www.paramountplus.com/shows/fbi/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FBI is on Paramount+ today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fbi-2026-11-10@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261110T090000
+DTEND;TZID=America/Los_Angeles:20261110T091500
+SUMMARY:FBI is on Paramount+ today
+DESCRIPTION:FBI\, Season 9. Episode 6. New episodes: Tuesdays on Paramount+
+  (often up late Monday night).
+LOCATION:Paramount+
+URL:https://www.paramountplus.com/shows/fbi/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FBI is on Paramount+ today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fbi-2026-11-17@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261117T090000
+DTEND;TZID=America/Los_Angeles:20261117T091500
+SUMMARY:FBI is on Paramount+ today
+DESCRIPTION:FBI\, Season 9. Episode 7. New episodes: Tuesdays on Paramount+
+  (often up late Monday night).
+LOCATION:Paramount+
+URL:https://www.paramountplus.com/shows/fbi/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FBI is on Paramount+ today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fbi-2026-12-01@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261201T090000
+DTEND;TZID=America/Los_Angeles:20261201T091500
+SUMMARY:FBI is on Paramount+ today
+DESCRIPTION:FBI\, Season 9. Episode 8. New episodes: Tuesdays on Paramount+
+  (often up late Monday night). Expected date. CBS has not confirmed it yet
+ .
+LOCATION:Paramount+
+URL:https://www.paramountplus.com/shows/fbi/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FBI is on Paramount+ today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fbi-2026-12-08@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261208T090000
+DTEND;TZID=America/Los_Angeles:20261208T091500
+SUMMARY:FBI is on Paramount+ today
+DESCRIPTION:FBI\, Season 9. Episode 9. New episodes: Tuesdays on Paramount+
+  (often up late Monday night). Expected date. CBS has not confirmed it yet
+ .
+LOCATION:Paramount+
+URL:https://www.paramountplus.com/shows/fbi/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FBI is on Paramount+ today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fbi-2026-12-15@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261215T090000
+DTEND;TZID=America/Los_Angeles:20261215T091500
+SUMMARY:FBI is on Paramount+ today
+DESCRIPTION:FBI\, Season 9. Episode 10. New episodes: Tuesdays on Paramount
+ + (often up late Monday night). Expected date. CBS has not confirmed it ye
+ t.
+LOCATION:Paramount+
+URL:https://www.paramountplus.com/shows/fbi/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FBI is on Paramount+ today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:law_order_svu-2026-10-09@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261009T090000
+DTEND;TZID=America/Los_Angeles:20261009T091500
+SUMMARY:Law & Order: SVU is on Peacock today
+DESCRIPTION:Law & Order: SVU\, Season 28. Episode 1: Volition. New episodes
+ : Friday mornings on Peacock. Season premiere.
+LOCATION:Peacock
+URL:https://www.peacocktv.com/stream-tv/law-and-order-special-victims-unit
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Law & Order: SVU is on Peacock today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:law_order_svu-2026-10-16@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261016T090000
+DTEND;TZID=America/Los_Angeles:20261016T091500
+SUMMARY:Law & Order: SVU is on Peacock today
+DESCRIPTION:Law & Order: SVU\, Season 28. Episode 2: Midway. New episodes: 
+ Friday mornings on Peacock.
+LOCATION:Peacock
+URL:https://www.peacocktv.com/stream-tv/law-and-order-special-victims-unit
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Law & Order: SVU is on Peacock today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:law_order_svu-2026-10-23@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261023T090000
+DTEND;TZID=America/Los_Angeles:20261023T091500
+SUMMARY:Law & Order: SVU is on Peacock today
+DESCRIPTION:Law & Order: SVU\, Season 28. Episode 3: Anonymity. New episode
+ s: Friday mornings on Peacock.
+LOCATION:Peacock
+URL:https://www.peacocktv.com/stream-tv/law-and-order-special-victims-unit
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Law & Order: SVU is on Peacock today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:law_order_svu-2026-10-30@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261030T090000
+DTEND;TZID=America/Los_Angeles:20261030T091500
+SUMMARY:Law & Order: SVU is on Peacock today
+DESCRIPTION:Law & Order: SVU\, Season 28. Episode 4: Arcana. New episodes: 
+ Friday mornings on Peacock.
+LOCATION:Peacock
+URL:https://www.peacocktv.com/stream-tv/law-and-order-special-victims-unit
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Law & Order: SVU is on Peacock today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:law_order_svu-2026-11-06@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261106T090000
+DTEND;TZID=America/Los_Angeles:20261106T091500
+SUMMARY:Law & Order: SVU is on Peacock today
+DESCRIPTION:Law & Order: SVU\, Season 28. Episode 5. New episodes: Friday m
+ ornings on Peacock.
+LOCATION:Peacock
+URL:https://www.peacocktv.com/stream-tv/law-and-order-special-victims-unit
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Law & Order: SVU is on Peacock today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:law_order_svu-2026-11-13@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261113T090000
+DTEND;TZID=America/Los_Angeles:20261113T091500
+SUMMARY:Law & Order: SVU is on Peacock today
+DESCRIPTION:Law & Order: SVU\, Season 28. Episode 6. New episodes: Friday m
+ ornings on Peacock. 600th episode\, Stabler returns.
+LOCATION:Peacock
+URL:https://www.peacocktv.com/stream-tv/law-and-order-special-victims-unit
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Law & Order: SVU is on Peacock today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:law_order_svu-2026-12-04@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261204T090000
+DTEND;TZID=America/Los_Angeles:20261204T091500
+SUMMARY:Law & Order: SVU is on Peacock today
+DESCRIPTION:Law & Order: SVU\, Season 28. Episode 7. New episodes: Friday m
+ ornings on Peacock. Last new episode before the holiday break.
+LOCATION:Peacock
+URL:https://www.peacocktv.com/stream-tv/law-and-order-special-victims-unit
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Law & Order: SVU is on Peacock today
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:inside_the_nba-2026-10-21@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261021T153000
+DTEND;TZID=America/Los_Angeles:20261021T220000
+SUMMARY:Inside the NBA live on ESPN
+DESCRIPTION:Opening week doubleheader: Timberwolves–Heat\, Warriors–Lak
+ ers. Tip-off 4:30 & 7:00 PM PT on ESPN. Pregame starts an hour before the 
+ first tip on ESPN (30 minutes on ABC)\, and the full postgame runs after t
+ he last game.
+LOCATION:ESPN
+URL:https://www.espn.com/watch/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Inside the NBA live on ESPN now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:inside_the_nba-2026-10-22@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261022T150000
+DTEND;TZID=America/Los_Angeles:20261022T213000
+SUMMARY:Inside the NBA live on ESPN
+DESCRIPTION:Opening week doubleheader: Cavaliers–76ers\, Nuggets–Thunde
+ r. Tip-off 4:00 & 6:30 PM PT on ESPN. Pregame starts an hour before the fi
+ rst tip on ESPN (30 minutes on ABC)\, and the full postgame runs after the
+  last game.
+LOCATION:ESPN
+URL:https://www.espn.com/watch/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Inside the NBA live on ESPN now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:inside_the_nba-2026-10-28@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261028T150000
+DTEND;TZID=America/Los_Angeles:20261028T213000
+SUMMARY:Inside the NBA live on ESPN
+DESCRIPTION:Wednesday doubleheader: 76ers–Pacers\, Thunder–Mavericks. T
+ ip-off 4:00 & 6:30 PM PT on ESPN. Pregame starts an hour before the first 
+ tip on ESPN (30 minutes on ABC)\, and the full postgame runs after the las
+ t game.
+LOCATION:ESPN
+URL:https://www.espn.com/watch/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Inside the NBA live on ESPN now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:inside_the_nba-2026-11-04@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261104T150000
+DTEND;TZID=America/Los_Angeles:20261104T213000
+SUMMARY:Inside the NBA live on ESPN
+DESCRIPTION:Wednesday doubleheader: 76ers–Pistons\, Mavericks–Spurs. Ti
+ p-off 4:00 & 6:30 PM PT on ESPN. Pregame starts an hour before the first t
+ ip on ESPN (30 minutes on ABC)\, and the full postgame runs after the last
+  game.
+LOCATION:ESPN
+URL:https://www.espn.com/watch/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Inside the NBA live on ESPN now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:inside_the_nba-2026-11-11@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261111T150000
+DTEND;TZID=America/Los_Angeles:20261111T213000
+SUMMARY:Inside the NBA live on ESPN
+DESCRIPTION:Wednesday doubleheader: Cavaliers–Knicks\, Warriors–Rockets
+ . Tip-off 4:00 & 6:30 PM PT on ESPN. Pregame starts an hour before the fir
+ st tip on ESPN (30 minutes on ABC)\, and the full postgame runs after the 
+ last game.
+LOCATION:ESPN
+URL:https://www.espn.com/watch/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Inside the NBA live on ESPN now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:inside_the_nba-2026-11-25@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261125T130000
+DTEND;TZID=America/Los_Angeles:20261125T220000
+SUMMARY:Inside the NBA live on ESPN
+DESCRIPTION:Thanksgiving Eve tripleheader: Heat–76ers\, Timberwolves–Th
+ under\, Spurs–Trail Blazers. Tip-off 2:00\, 4:30 & 7:00 PM PT on ESPN. P
+ regame starts an hour before the first tip on ESPN (30 minutes on ABC)\, a
+ nd the full postgame runs after the last game.
+LOCATION:ESPN
+URL:https://www.espn.com/watch/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Inside the NBA live on ESPN now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:inside_the_nba-2026-12-12@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261212T170000
+DTEND;TZID=America/Los_Angeles:20261212T203000
+SUMMARY:Inside the NBA live on ABC
+DESCRIPTION:Saturday Primetime: Knicks–Heat. Tip-off 5:30 PM PT on ABC. P
+ regame starts an hour before the first tip on ESPN (30 minutes on ABC)\, a
+ nd the full postgame runs after the last game.
+LOCATION:ABC
+URL:https://www.espn.com/watch/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Inside the NBA live on ABC now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:inside_the_nba-2026-12-25@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20261225T080000
+DTEND;TZID=America/Los_Angeles:20261225T223000
+SUMMARY:Inside the NBA live on ESPN & ABC
+DESCRIPTION:Christmas Day\, five games: Spurs–Knicks\, Heat–Celtics\, 7
+ 6ers–Lakers\, Thunder–Timberwolves\, Nuggets–Warriors. Tip-off 9:00 
+ AM to 7:30 PM PT on ESPN & ABC. Pregame starts an hour before the first ti
+ p on ESPN (30 minutes on ABC)\, and the full postgame runs after the last 
+ game.
+LOCATION:ESPN & ABC
+URL:https://www.espn.com/watch/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Inside the NBA live on ESPN & ABC now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:inside_the_nba-2027-01-06@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20270106T153000
+DTEND;TZID=America/Los_Angeles:20270106T220000
+SUMMARY:Inside the NBA live on ESPN
+DESCRIPTION:Wednesday doubleheader: Thunder–76ers\, Knicks–Warriors. Ti
+ p-off 4:30 & 7:00 PM PT on ESPN. Pregame starts an hour before the first t
+ ip on ESPN (30 minutes on ABC)\, and the full postgame runs after the last
+  game.
+LOCATION:ESPN
+URL:https://www.espn.com/watch/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Inside the NBA live on ESPN now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:inside_the_nba-2027-01-08@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20270108T150000
+DTEND;TZID=America/Los_Angeles:20270108T213000
+SUMMARY:Inside the NBA live on ESPN
+DESCRIPTION:Friday doubleheader: Heat–76ers\, Suns–Mavericks. Tip-off 4
+ :00 & 6:30 PM PT on ESPN. Pregame starts an hour before the first tip on E
+ SPN (30 minutes on ABC)\, and the full postgame runs after the last game.
+LOCATION:ESPN
+URL:https://www.espn.com/watch/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Inside the NBA live on ESPN now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:inside_the_nba-2027-01-13@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20270113T150000
+DTEND;TZID=America/Los_Angeles:20270113T213000
+SUMMARY:Inside the NBA live on ESPN
+DESCRIPTION:Wednesday doubleheader: Knicks–Celtics\, Rockets–Thunder. T
+ ip-off 4:00 & 6:30 PM PT on ESPN. Pregame starts an hour before the first 
+ tip on ESPN (30 minutes on ABC)\, and the full postgame runs after the las
+ t game.
+LOCATION:ESPN
+URL:https://www.espn.com/watch/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Inside the NBA live on ESPN now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:inside_the_nba-2027-01-22@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20270122T150000
+DTEND;TZID=America/Los_Angeles:20270122T213000
+SUMMARY:Inside the NBA live on ESPN
+DESCRIPTION:Friday doubleheader: Knicks–Hawks\, Timberwolves–Spurs. Tip
+ -off 4:00 & 6:30 PM PT on ESPN. Pregame starts an hour before the first ti
+ p on ESPN (30 minutes on ABC)\, and the full postgame runs after the last 
+ game.
+LOCATION:ESPN
+URL:https://www.espn.com/watch/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Inside the NBA live on ESPN now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:inside_the_nba-2027-01-27@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20270127T150000
+DTEND;TZID=America/Los_Angeles:20270127T213000
+SUMMARY:Inside the NBA live on ESPN
+DESCRIPTION:Wednesday doubleheader: Pistons–Cavaliers\, Nuggets–Timberw
+ olves. Tip-off 4:00 & 6:30 PM PT on ESPN. Pregame starts an hour before th
+ e first tip on ESPN (30 minutes on ABC)\, and the full postgame runs after
+  the last game.
+LOCATION:ESPN
+URL:https://www.espn.com/watch/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Inside the NBA live on ESPN now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:inside_the_nba-2027-01-30@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20270130T090000
+DTEND;TZID=America/Los_Angeles:20270130T203000
+SUMMARY:Inside the NBA live on ABC
+DESCRIPTION:Rivals Week\, four games: 76ers–Heat\, Nuggets–Thunder\, Sp
+ urs–Warriors\, Lakers–Knicks. Tip-off 9:30 AM to 5:30 PM PT on ABC. Pr
+ egame starts an hour before the first tip on ESPN (30 minutes on ABC)\, an
+ d the full postgame runs after the last game.
+LOCATION:ABC
+URL:https://www.espn.com/watch/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Inside the NBA live on ABC now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:inside_the_nba-2027-02-06@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20270206T170000
+DTEND;TZID=America/Los_Angeles:20270206T203000
+SUMMARY:Inside the NBA live on ABC
+DESCRIPTION:Saturday Primetime: Lakers–Spurs. Tip-off 5:30 PM PT on ABC. 
+ Pregame starts an hour before the first tip on ESPN (30 minutes on ABC)\, 
+ and the full postgame runs after the last game.
+LOCATION:ABC
+URL:https://www.espn.com/watch/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Inside the NBA live on ABC now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:inside_the_nba-2027-02-10@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20270210T153000
+DTEND;TZID=America/Los_Angeles:20270210T220000
+SUMMARY:Inside the NBA live on ESPN
+DESCRIPTION:Wednesday doubleheader: Warriors–Celtics\, Clippers–Lakers.
+  Tip-off 4:30 & 7:00 PM PT on ESPN. Pregame starts an hour before the firs
+ t tip on ESPN (30 minutes on ABC)\, and the full postgame runs after the l
+ ast game.
+LOCATION:ESPN
+URL:https://www.espn.com/watch/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Inside the NBA live on ESPN now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:inside_the_nba-2027-02-12@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20270212T183000
+DTEND;TZID=America/Los_Angeles:20270212T223000
+SUMMARY:Inside the NBA live on ESPN
+DESCRIPTION:Friday game: Nuggets–Lakers. Tip-off 7:30 PM PT on ESPN. Preg
+ ame starts an hour before the first tip on ESPN (30 minutes on ABC)\, and 
+ the full postgame runs after the last game.
+LOCATION:ESPN
+URL:https://www.espn.com/watch/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Inside the NBA live on ESPN now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:inside_the_nba-2027-02-13@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20270213T170000
+DTEND;TZID=America/Los_Angeles:20270213T203000
+SUMMARY:Inside the NBA live on ABC
+DESCRIPTION:Saturday Primetime: Warriors–Knicks. Tip-off 5:30 PM PT on AB
+ C. Pregame starts an hour before the first tip on ESPN (30 minutes on ABC)
+ \, and the full postgame runs after the last game.
+LOCATION:ABC
+URL:https://www.espn.com/watch/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Inside the NBA live on ABC now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:inside_the_nba-2027-02-17@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20270217T150000
+DTEND;TZID=America/Los_Angeles:20270217T213000
+SUMMARY:Inside the NBA live on ESPN
+DESCRIPTION:Wednesday doubleheader: Knicks–Pistons\, Celtics–Thunder. T
+ ip-off 4:00 & 6:30 PM PT on ESPN. Pregame starts an hour before the first 
+ tip on ESPN (30 minutes on ABC)\, and the full postgame runs after the las
+ t game.
+LOCATION:ESPN
+URL:https://www.espn.com/watch/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Inside the NBA live on ESPN now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:inside_the_nba-2027-02-26@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20270226T153000
+DTEND;TZID=America/Los_Angeles:20270226T220000
+SUMMARY:Inside the NBA live on ESPN
+DESCRIPTION:Friday doubleheader: Cavaliers–Celtics\, Lakers–Nuggets. Ti
+ p-off 4:30 & 7:00 PM PT on ESPN. Pregame starts an hour before the first t
+ ip on ESPN (30 minutes on ABC)\, and the full postgame runs after the last
+  game.
+LOCATION:ESPN
+URL:https://www.espn.com/watch/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Inside the NBA live on ESPN now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:inside_the_nba-2027-02-27@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20270227T170000
+DTEND;TZID=America/Los_Angeles:20270227T203000
+SUMMARY:Inside the NBA live on ABC
+DESCRIPTION:Saturday Primetime: 76ers–Knicks. Tip-off 5:30 PM PT on ABC. 
+ Pregame starts an hour before the first tip on ESPN (30 minutes on ABC)\, 
+ and the full postgame runs after the last game.
+LOCATION:ABC
+URL:https://www.espn.com/watch/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Inside the NBA live on ABC now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:inside_the_nba-2027-03-05@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20270305T150000
+DTEND;TZID=America/Los_Angeles:20270305T213000
+SUMMARY:Inside the NBA live on ESPN
+DESCRIPTION:Friday doubleheader: Celtics–Pistons\, Spurs–Rockets. Tip-o
+ ff 4:00 & 6:30 PM PT on ESPN. Pregame starts an hour before the first tip 
+ on ESPN (30 minutes on ABC)\, and the full postgame runs after the last ga
+ me.
+LOCATION:ESPN
+URL:https://www.espn.com/watch/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Inside the NBA live on ESPN now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:inside_the_nba-2027-03-06@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20270306T170000
+DTEND;TZID=America/Los_Angeles:20270306T203000
+SUMMARY:Inside the NBA live on ABC
+DESCRIPTION:Saturday Primetime: Thunder–Lakers. Tip-off 5:30 PM PT on ABC
+ . Pregame starts an hour before the first tip on ESPN (30 minutes on ABC)\
+ , and the full postgame runs after the last game.
+LOCATION:ABC
+URL:https://www.espn.com/watch/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Inside the NBA live on ABC now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:inside_the_nba-2027-03-13@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20270313T170000
+DTEND;TZID=America/Los_Angeles:20270313T203000
+SUMMARY:Inside the NBA live on ABC
+DESCRIPTION:Saturday Primetime: 76ers–Timberwolves. Tip-off 5:30 PM PT on
+  ABC. Pregame starts an hour before the first tip on ESPN (30 minutes on A
+ BC)\, and the full postgame runs after the last game. ESPN has Clippers–
+ Trail Blazers at 7:30 PM afterward.
+LOCATION:ABC
+URL:https://www.espn.com/watch/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Inside the NBA live on ABC now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:inside_the_nba-2027-04-11@reality-drop-days
+DTSTAMP:20261102T043342Z
+DTSTART;TZID=America/Los_Angeles:20270411T140000
+DTEND;TZID=America/Los_Angeles:20270411T203000
+SUMMARY:Inside the NBA live on ESPN
+DESCRIPTION:Regular-season finale doubleheader: Matchups to be announced. T
+ ip-off 3:00 & 5:30 PM PT on ESPN. Pregame starts an hour before the first 
+ tip on ESPN (30 minutes on ABC)\, and the full postgame runs after the las
+ t game.
+LOCATION:ESPN
+URL:https://www.espn.com/watch/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Inside the NBA live on ESPN now
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+END:VCALENDAR
